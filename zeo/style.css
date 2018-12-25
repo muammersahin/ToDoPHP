@@ -1,0 +1,43 @@
+
+        @import url('https://fonts.googleapis.com/css?family=Courgette');
+
+        h1, #ekle {
+            text-align: center;
+        }
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        tr {
+            height: 30px;
+        }
+        td {
+            padding-left: 50px;
+            border: 2px dashed white;
+            width: 100px;
+
+        }
+        tr:nth-child(1){
+            font-weight: bold;
+        }
+        body {
+            font-family: Courgette;
+            background: orange;
+            
+     
+        }
+        td img {
+            width: 30px;
+        }
+        #ekle img {
+            width: 70px;
+        }
+        
+        #yapildi {
+            
+            color: green;
+            font-weight: bold;
+            
+        }
+    
+
